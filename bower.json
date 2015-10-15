@@ -1,0 +1,19 @@
+{
+  "name": "evvnt-submission-form",
+  "version": "0.0.1",
+  "authors": [
+    "Trevor Burton-McCreadie <trevor@evvnt.com>"
+  ],
+  "description": "provides an angularJS module for submitting event information to evvnt.com via Gig Expert",
+  "main": "evvnt-submission-form.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
